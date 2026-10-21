@@ -13,7 +13,7 @@ def divide(a, b):
     return a / b
 
 def main():
-    print("Simple Calculator")
+    print("Python Calculator")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
